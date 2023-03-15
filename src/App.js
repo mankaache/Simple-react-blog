@@ -1,5 +1,6 @@
 import Navbar from "./Navbar";
 import Home from "./Home";
+import Create from "./create";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
@@ -11,7 +12,10 @@ function App() {
           <Switch>
             {/* when we visit the / path we see the home page */}
             <Route path="/">
-            <Home />
+              <Home />
+            </Route>
+            <Route path="/create">
+              <Create />
             </Route>
           </Switch>
         </div>
