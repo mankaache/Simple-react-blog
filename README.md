@@ -4,7 +4,10 @@ This is My first react app which is a project thats about viewing blog post and 
 
 This project uses react hooks `useEffect` and `useState`
 In this project  local json server was setup for a local API.
-In this project i also created  custom hook `useFetch`
+In this project i also created  custom hook `useFetch`. 
+I also learnt about react router and used v5
+
+
 
 ## Available Scripts
 
