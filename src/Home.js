@@ -12,9 +12,6 @@ const Home = () => {
             {error && <div>{error}</div>}
             {isPending && <div>Loading...</div>}
            {blogs !== null && <BlogList blogs={blogs} title={title}></BlogList>}
-            {/* <BlogList blogs={blogs.filter(n=>n.author === 'manka')} title={'Manka\'s blogs'}></BlogList> */}
-            {/* <button onClick={()=>setName('luiji')}>Change Name</button>
-            <p>{name}</p> */}
         </div>
      );
 }
