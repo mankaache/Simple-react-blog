@@ -11,7 +11,7 @@ function App() {
         <div className="content">
           <Switch>
             {/* when we visit the / path we see the home page */}
-            <Route path="/">
+            <Route exact path="/">
               <Home />
             </Route>
             <Route path="/create">
