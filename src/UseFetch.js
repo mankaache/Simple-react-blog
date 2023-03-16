@@ -34,7 +34,7 @@ const useFetch = (url) => {  //custom hooks needs to start with "use"
                 }
                 
             })
-        },2000)
+        },500)
         
 
         return ()=>abortCont.abort()
