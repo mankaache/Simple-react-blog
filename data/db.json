@@ -17,6 +17,18 @@
       "body": "css is awesome",
       "author": "yoshi",
       "id": 3
+    },
+    {
+      "title": "fun",
+      "body": "it is great to have fun sometimes",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "javascript",
+      "body": "awesome language ",
+      "author": "mario",
+      "id": 5
     }
   ]
 }
