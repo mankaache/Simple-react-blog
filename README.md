@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started Blog Post React App
 
-This is My first react app which is a project thats about viewing blog post and the user can add new blog post.
+This is My first react app which is a project thats about viewing blog post. So basically the user can click on blog past to view more details about the blog. 
+The user can add or delete blog posts too.
 
 This project uses react hooks `useEffect` and `useState`
 In this project  local json server was setup for a local API.
