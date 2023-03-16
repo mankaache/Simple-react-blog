@@ -71,8 +71,8 @@
   background: #f1356d;
   color: #fff;
   border: 0;
-  padding: 8px;
-  border-radius: 8px;
+  padding: 8px 10px;
+  border-radius: 5px;
   cursor: pointer;
 }
 /* create new blog form */
