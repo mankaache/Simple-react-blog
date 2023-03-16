@@ -109,3 +109,23 @@
 button:disabled{
   background: #f088a7;
 }
+.not-found{
+  width: 500px;
+  height: 100vh;
+  text-align: center;
+}
+.not-found h2{
+  color: #f1356d;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+}
+.not-found p{
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.not-found a{
+  font-size: 14px;
+  color: blue;
+}
